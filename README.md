@@ -3,10 +3,9 @@
 
 <!-- Redes sociais -->
 [![WebSite](https://img.shields.io/badge/kelrho.com.br-SITE-76B900?style=for-the-badge&logoColor=white)](https://kelrho.com.br)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://www.linkedin.com/in/rhoglas-lobato-arag%C3%A3o-29946922a/](https://github.com/RhoglasLobato/RhoglasLobato))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RhoglasLobato/RhoglasLobato)
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/teams/rhoglaslobato/overview)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhoglas-lobato-arag%C3%A3o-29946922a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rhoglas.aragao@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/refresh_dev)
 
 <!-- Git status -->
