@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/refresh_dev)
 
 <!-- Git status -->
-![Rhoglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=RhoglasLobato&show_icons=true&theme=highcontrast)
+![Rhoglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhoglas&show_icons=true&theme=highcontrast)
 
 <!-- Tecnologias -->
 ### 👾🤓 Tecnologias que eu utilizo:
@@ -27,7 +27,7 @@
 </div>
 
 <!-- Gráfico de usabilidade -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhoglasLobato)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhoglas)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- Em breve -->
