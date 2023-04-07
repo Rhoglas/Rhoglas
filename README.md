@@ -1,6 +1,10 @@
 <!-- Apresentação -->
 ## 👻👻 Olá! Eu sou Rhoglas Lobato 😎
 
+![Snake animation](https://github.com/Rhoglas/Rhoglas/blob/output/github-contribution-grid-snake.svg)
+
+
+
 <!-- Redes sociais -->
 [![WebSite](https://img.shields.io/badge/kelrho.com.br-SITE-76B900?style=for-the-badge&logoColor=white)](https://kelrho.com.br)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RhoglasLobato)
@@ -9,12 +13,20 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/refresh_dev)
 
 <!-- Git status -->
-![Rhoglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhoglas&show_icons=true&theme=highcontrast)
-
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Rhoglas&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhoglas&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+</div>
+<!-- 
+![Rhoglas GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhoglas&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhoglas)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 <!-- Tecnologias -->
 ### 👾🤓 Tecnologias que eu utilizo:
  
 <!-- Imagens das techs -->
+
 <div style='display: inline-block'>
 <br/>
 <img align='center' alt='HTML5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
@@ -26,8 +38,8 @@
 <br/>
 </div>
 
-<!-- Gráfico de usabilidade -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhoglas)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!-- Em breve -->
