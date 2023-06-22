@@ -54,9 +54,6 @@
 <br/>
 </div>
 
-<!-- Gráfico de commits -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rhoglas&bg_color=0d1117&color=bfe6ec&line=bfe6ec&point=053542&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <!-- Commits, jogo da cobrinha -->
 ![Snake animation](https://github.com/Rhoglas/Rhoglas/blob/output/github-contribution-grid-snake.svg)
   
